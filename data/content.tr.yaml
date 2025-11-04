@@ -1,0 +1,306 @@
+name: Hakkı Cengiz
+tagline: >-
+  Özet - Programlama Meraklısı. Full Stack Geliştirici. Federasyon Sporcusu. Figma'dan React, Vue, VanillaJS, TypeScript ve Sass kullanarak frontend koduna UI/UX tasarımlarını dönüştürme konusunda deneyimli. Frontend geliştirme ortamlarını kurma, mimariler oluşturma ve SEO optimizasyonu uygulama konularında yetkin. Backend'de .Net Core, PHP, WordPress (tema düzenleme, entegrasyon, eklenti geliştirme), Laravel, Node.js ve Firebase konularında yetenekli. Mobil geliştirmede Java, Android Studio, kod yeniden düzenleme (refactoring), SOLID prensipleri, temiz kodlama ve tasarım desenleri konularında yetkin. Fintech'e tutkulu olup, ödeme sistemleri, kriptografi, EMV ve TLV veri işleme konularında uzmanlığa sahip. Ayrıca HTML, CSS, JavaScript, React ve Next.js kapsayan frontend bootcamp'leri için eğitmenlik deneyimi bulunmaktadır. Mirror World, AR, VR ve AI konularında yoğun ilgiye sahiptir. Yazılım mimarisi ve geliştirme alanlarında proje yönetimi, öğretim ve danışmanlık konularında uzmanlık.
+
+sidebar:
+  contact:
+    email: hakkicengiz7@gmail.com
+    # phone: "+90 535 220 77 36"
+    location: "Adana, Türkiye"
+    website: hakki.app
+    github: hkkcngz
+    linkedin: hkkcngz
+  skills:
+    - title: Programlama
+      entry:
+        - name: JavaScript
+          rating: 5
+        - name: PHP
+          rating: 5
+        - name: React
+          rating: 4
+        - name: NodeJS (& Express)
+          rating: 4
+        - name: HTML/CSS (& SASS)
+          rating: 5
+        - name: Java
+          rating: 5
+        - name: Golang
+          rating: 3
+        - name: Python
+          rating: 3
+        - name: Vue
+          rating: 3
+        - name: C
+          rating: 3
+        - name: C++
+          rating: 2
+        - name: SQL
+          rating: 2
+        - name: Rust
+          rating: 1
+        - name: Spring
+          rating: 1
+    - title: İşletim Sistemleri
+      entry:
+        - name: Linux
+          rating: 5
+        - name: Windows
+          rating: 3
+        - name: MacOS
+          rating: 1
+    - title: Araçlar
+      entry:
+        - name: Git
+          rating: 5
+        - name: Docker
+          rating: 3
+    - title: Diller
+      entry:
+        - name: Turkish
+          value: Ana Dil
+        - name: English
+          value: C1 (IELTS Band 8.0)
+        - name: Bosnian
+          value: Ana Dil
+  
+opensource:
+  title: "Aşağıdaki projelerdeki katkılarım:"
+  contributions:
+    - name: TeaTable
+      link: https://github.com/hkkcngz/teatable
+      description: "Web uygulamaları için dinamik bir tablo kütüphanesi; CRUD operasyonlarını ve daha fazlasını kolayca yönetir."
+    - name: Multi Step Form
+      link: https://github.com/hkkcngz/multi-step-form
+      description: "Çok Adımlı Form (Saf Web Bileşenleri)"
+    - name: BuildGradle
+      link: https://github.com/hkkcngz/buildgradle
+      description: "Android Build Gradle Kod Parçacıkları"
+    - name: checked-tabs
+      link: https://github.com/hkkcngz/checked-tabs
+      description: "Saf CSS Sekmeleri"
+    - name: checked-dropdown
+      link: https://github.com/hkkcngz/checked-dropdown
+      description: "Saf CSS Açılır Menü"
+    - name: Timurlenk Chess
+      link: https://github.com/hkkcngz/timurlenk-chess
+      description: "Antik Satranç Oyunu"
+    - name: tooltipcik
+      link: https://github.com/hkkcngz/tooltipcik
+      description: "Saf CSS & JS Araç İpuçları"
+    - name: What is Groovy?
+      link: https://github.com/hkkcngz/nedir-bu-groovy
+      description: "Groovy Programlama Diline Giriş (Türkçe)"
+    - name: Jarvis
+      link: https://github.com/hkkcngz/jarvis
+      description: "Jarvis Sesli Asistan"
+    - name: location-tracker
+      link: https://github.com/hkkcngz/location-tracker
+      description: "Basit Konum Takip Uygulaması"
+    - name: nerdeydik
+      link: https://github.com/hkkcngz/nerdeydik
+      description: "Mini Sosyal Medya Uygulaması" 
+    - name: Codepen - Turkish Tea Animation
+      link: https://codepen.io/hkkcngz/pen/pvvdKqp
+      description: "Tamamen Türkçe çay benzeri animasyon"
+    - name: Codepen - Fidget spinner in CSS
+      link: https://codepen.io/hkkcngz/pen/MWOaPjB
+      description: "CSS ile Fidget Spinner"
+    - name: Codepen - Chess Game Menu
+      link: https://codepen.io/hkkcngz/pen/XJmjWqB
+      description: "Timurlenk Chess için Oyun Menüsü UI Tasarımı"
+    - name: Codepen - Voice Assistant Close Door/Open
+      link: https://codepen.io/hkkcngz/pen/ZEJPGrv
+      description: "Kapı Açma ve Kapama İçin Sesli Komut"
+
+misc: []
+
+sections:
+  education:
+    - name: "Fizyoterapi Lisans (tamamlanmadı)"
+      location: "Saraybosna Üniversitesi, Bosna-Hersek"
+      date: "2013 - 2017"
+      description: |-
+        - Boşnakça öğrenmek için hazırlık yılı
+        - Lisans derecesinin birinci yılını başarıyla tamamladı
+        - Dil zorlukları nedeniyle ikinci yılı başaramadı
+        - Son yıl başka bir üniversiteye geçiş için okudu
+        - Turist Rehberlik Şirketi Kurulumu: BosnaTur
+        - Bir şeyler öğrenme açlığı ve Yazılım Kariyerine Başlama
+        - CayArasi Edebi Sosyal Medya Lansmanı
+        - Bosna-Hersek'teki sel felaketleri gibi gönüllü faaliyetlere ve yardımlara katılım (2014)
+        - Altın Balık Yolculuğu - Kendi Kendini Yetiştirmiş Programcı
+    - name: "Fizyoterapi Lisans (tamamlanmadı)"
+      location: "Uluslararası Kıbrıs Üniversitesi, Lefkoşa, Kıbrıs"
+      date: "2017 - 2019"
+      description:  |-
+        - İlk yıl en iyi 5 öğrenciden biri
+        - Binlerce kişi tarafından okunan fizyoterapi alanında blog yazıları
+        - Tiyatro Kulübünde rol alma
+        - Yüksek Yaşam ve Okul Maliyeti,
+        - Bir Dersi Geçmek İçin Durmaksızın Ders Çalışma Gerekliliği Nedeniyle İkinci İşte Çalışamama
+        - Gemileri yakıp bilgisayar programcılığı okumak için eve dönüş
+    - name: "Bilgisayar Programcılığı Önlisans"
+      location: "Mersin Üniversitesi, Türkiye"
+      date: "2019 - 2021"
+      description:  |-
+        - Bölüm birincisi ve en iyi notlar
+        - Ders notlarını paylaşmak için dijital platform lansmanı: Ders-not.com
+        - Yan iş olarak bir reklam ajansında SEO Uzmanı ve Web Geliştiricisi olarak çalışmak
+        - Türkiye genelinde hedef anahtar kelimelerde kalıcı SEO başarısı
+        - Oyun Geliştirme Ekibimiz "FierHeid" ile Global Game Jam etkinliğine katılım
+  jobs:
+    - name: |-
+        Tabela ve Reklam Ajansı  
+        _Web Geliştirici ve SEO Uzmanı_
+      location: "Nesil Ajans, Mersin, Türkiye"
+      date: "Eyl 2019 - Eyl 2021"
+      description: |-
+        Tabela üretimi yapan, reklam malzemeleri tasarlayan ve satan Nesil Ajans, üniversite okurken çalıştığım şirkettir.
+        Türkiye genelinde hedef anahtar kelimede kalıcı SEO başarısı
+        Şehir ve İlçe Bazlı arama sonuçlarında listelenmek üzere bir şablon sayfa tasarladım.
+        Satışlar %200 arttı
+        Reklam kampanyaları için şirketin web sitesinin yanı sıra çeşitli açılış sayfalarını geliştirdim ve bakımını yaptım.
+        Müşterilerin kendi tabela tasarımlarını kolayca sipariş verebilmelerini sağlayan bir oluşturucu geliştirdim.
+    - name: |-
+        Yazılım Şirketi  
+        _Frontend Geliştirici_
+      location: "Kodfu, Mersin, Türkiye"
+      date: "Oca 2021 - Mar 2021"
+      description: |-
+        Uzaktan bir junior frontend geliştirici olarak çalıştım.
+        React'ı öğrendim.
+        Kanban iş yönetim ve çalışan takip yazılımı olan Bitirio'nun tasarımını HTML, CSS ve JS ile tamamladım.
+        Kolayca bileşenlere ayrılabilen basit bir tasarım oluşturdum.
+    - name: |-
+        DgPays 
+        _Full-stack Developer_
+      location: "İstanbul, Türkiye · Hibrit"
+      date: "Tem 2024 - Şub 2025"
+      description: |-
+        Finansal teknoloji hizmetleri sunan DgPays'te, önde gelen banka müşterileri 
+        (Ziraat Bankası, Halkbank, Vakıfbank, PTT vb.) ve diğer sektörler için mevcut 
+        ürünlerin geliştirilmesi ve iyileştirilmesi üzerinde çalıştım.
+        - Zengin fintech çözümleri için Ar-Ge faaliyetleri, refaktöring ve hata giderme süreçlerinde yer aldım.
+        - Test Güdümlü Geliştirme (TDD) pratiği yaptım.
+        
+        **Teknolojiler:** Java, Kotlin, Swift, .Net Core, Rest, TCP, Git, Sonarqube, Jira, Confluence, Sqlite, Firebase Services (Cloud Messaging), SDK, JDK, JAR/AAR.
+        
+    - name: |-
+        DgPays
+        _Android Developer_
+      location: "İstanbul, Türkiye"
+      date: "Ara 2021 - May 2025"
+      description: |-
+        Önde gelen banka ve kurumsal müşteriler için Android POS, Sanal POS ve E-Cüzdan çözümleri gibi temel fintech ürünlerinin geliştirilmesi ve iyileştirilmesi üzerine odaklandım.
+        - Hassas ödeme verilerinin güvenli bir şekilde aktarılması ve saklanması için **kriptografi** (şifreleme algoritmaları) temelleri ve güvenlik protokolleri üzerine çalıştım.
+        - Ar-Ge'ye katkıda bulundum, düzenli yeniden düzenleme (refactoring) yaptım ve kritik hataları düzelttim.
+        - SOLID Tasarım Prensiplerini ve Test Güdümlü Geliştirme metodolojilerini uyguladım.
+        
+        **Teknolojiler:** Java, Kotlin, Rest, TCP, Git, Sonarqube, Jira, Confluence, Sqlite, Firebase Services (Cloud Messaging), SDK, JDK, JAR/AAR.
+    
+    - name: |-
+        Kodmob 
+        _Full Stack Developer (Serbest Çalışan)_
+      location: "Kozan, Adana, Türkiye · Hibrit"
+      date: "Mar 2025 - Halen"
+      description: |-
+        İşsizlik dönemimi kendi projelerimi hayata geçirme fırsatına çevirdim. 
+        Full-stack geliştirme, güvenlik ve pazarlama dahil olmak üzere projelerin tüm aşamalarını aktif olarak yöneterek hem teknik hem de girişimcilik deneyimi kazandım. 
+        Bu projeleri başarıyla oluşturdum ve gelir elde ettim. 🚀
+  
+  projects:
+    - name: Davetiyematik
+      date: "2021 - Halen"
+      link: https://davetiyematik.com
+      techstack:
+        icon: "fa-brands fa-php"
+        name: "PHP; Javascript"
+      description: >-
+        Düğün süreci sırasında insanları davet etme ihtiyacı doğdu ve bu ihtiyaca sahip herkes için bir yazılım geliştirdim.
+    - name: Belediye Çözüm Merkezi ve Seçim/Anket Betiği
+      date: "2023"
+      link: #
+      techstack:
+        icon: "fa-brands fa-php"
+        name: "PHP; Dashboard; MySQL"
+      description: >-
+        Seçim süreci sırasında bir adayın vatandaşların sorunlarını daha yakından dinlemesi için geliştirildi.
+    - name: Nöbetçi Eczane Takvimi Oluşturma Uygulaması
+      date: "2023 - Halen"
+      link: https://eczacilarodasi.net
+      techstack:
+        icon: "fa-brands fa-php"
+        name: "PHP; MySQL; HTML/CSS"
+      description: >-
+        Eczanelerin nöbet çizelgelerini hızlı ve hatasız bir şekilde oluşturup yönetmesini sağlayan pratik bir araçtır.
+        Kullanıcı dostu arayüzü ve **otomatik planlama** özellikleri sayesinde, nöbet takvimlerinin kolayca oluşturulmasını ve güncellenmesini sağlar, bu da eczane yöneticilerinin planlama yükünü önemli ölçüde azaltırken kullanıcıların gerekli bilgilere kolayca erişebilmesini garanti eder.
+    - name: DG Akademi - Stajyer Geliştiriciler İçin Bootcamp
+      date: "2023"
+      link: https://github.com/hkkcngz/dgacademy
+      techstack:
+        icon: "fa-brands fa-react"
+        name: "React (NextJS);"
+      description: >-
+        5 haftalık DgAkademi programında eğitmen olarak yer aldım. Amacımız stajyerlere 
+        endüstri standartlarında ve profesyonel hayatta kullanılan yapılarla pratik 
+        eğitimler sunmaktı.
+        
+        **Temel Etkinlikler:**
+        - **Frontend ve Android** programları için eğitim içeriklerinin geliştirilmesi ve sunumu.
+        - Stajyerlerin konuları tekrar etmesi için bir **Frontend Eğitim Uygulaması** hazırladım.
+        - Her stajyere eğitim materyaliyle uyumlu üç proje atadım.
+        - Stajyerlere **Git kullanımı** konusunda mentorluk yaptım ve proje takibini yönettim.
+        - Değerlendirmelerde stajyerlerin öğrenme isteğine ve genel çabasına odaklandım.
+        
+        **Proje Örnekleri:**
+        - Tasarımların **pixel-perfect** koda dönüştürülmesi ve API entegrasyonu.
+        - Veri listeleme ve öğe detay görünümleri dahil olmak üzere React platformunda uygulama geliştirme.
+    - name: BKM TechPos Parser
+      date: "2022"
+      link: #
+      techstack:
+        icon: "fa-brands fa-js"
+        name: "Javascript"
+      description: >-
+        Fintech sektöründe iş analistleri ve test uzmanları tarafından kullanılan işlem verilerindeki TLV (Tag-Length-Value) formatlı kodları doğrulamak için geliştirilmiş pratik bir araçtır.
+        
+        Bu araç, doğrulama sürecinde geliştirici müdahalesi ihtiyacını ortadan kaldırarak ekip üzerindeki operasyonel yükü önemli ölçüde azaltmış ve doğrulamayı hızlandırmıştır.
+    - name: Yeriz.Tr - İşletmeler İçin QR Menü Yazılımı
+      date: "2022 - Halen"
+      link: https://yeriz.tr
+      techstack:
+        icon: "fa-brands fa-php"
+        name: "PHP; Javascript; MySQL"
+      description: >-
+        İşletmeniz İçin Ücretsiz Sipariş Hattı Oluşturun
+        İşletmeniz için çevrimiçi siparişleri hızlı ve kolay bir şekilde almanızı sağlayan bir çözümdür.
+    - name: TarlamVar - Online Tarım Pazaryeri
+      date: "2024 - Halen"
+      link: https://yeriz.tr
+      techstack:
+        icon: "fa-brands fa-php"
+        name: "PHP; Javascript; MySQL"
+      description: >-
+        Çiftçileri doğrudan tüketicilerle buluşturan, aracıları ortadan kaldırarak tarım ürünlerinin alım satımını sağlayan çevrimiçi bir pazaryeri.
+    - name: AppArtman - Apart Management System
+      date: "2024 - Present"
+      link: https://appartman.site
+      techstack:
+        icon: "fa-brands fa-php"
+        name: "PHP; Javascript; MySQL"
+      description: >-
+        A comprehensive apartment management system designed to streamline and simplify the administrative tasks associated with managing residential complexes.
+  extracurriculars:
+    - name: Patika.dev Android Bootcamp 
+      link: #
+      icon: "fa-solid fa-user-secret"
+    - name: Udemy - Electron.js Course
+      link: #
+      icon: "fa-solid fa-user-secret"
+    - name: Udemy - Three.js Course
+      link: #
+      icon: "fa-solid fa-user-secret"
+    - name: Udemy - Game Development Logic Course
+      link: #
+      icon: "fa-solid fa-user-secret"

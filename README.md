@@ -1,6 +1,6 @@
-# Curriculum Vitae - Diogo Correia
+# Curriculum Vitae - Hakkı Cengiz
 
-Why HTML? Because it can be easily [shared on the web](https://cv.diogotc.com)
+Why HTML? Because it can be easily [shared on the web](https://hakki.app/cv)
 
 ![CV Preview](.github/preview.png)
 
@@ -41,5 +41,5 @@ crop the resulting PDF.
 
 ```sh
 # Change $HEIGHT to the amount to crop from the bottom
-gs -o out.pdf -sDEVICE=pdfwrite -c "[/CropBox [297.78 1684.08 893.34 $HEIGHT] /PAGES pdfmark" -f CV\ _\ Diogo\ Correia.pdf
+gs -o out.pdf -sDEVICE=pdfwrite -c "[/CropBox [297.78 1684.08 893.34 $HEIGHT] /PAGES pdfmark" -f CV\ _\ Hakki\ Cengiz.pdf
 ```

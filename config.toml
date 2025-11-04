@@ -1,6 +1,6 @@
-baseURL = 'https://cv.diogotc.com'
+baseURL = 'https://hakki.app/cv'
 languageCode = 'en-us'
-title = 'CV | Diogo Correia'
+title = 'CV | Hakkı Cengiz'
 disableKinds = ["taxonomy", "term"]
 
 defaultContentLanguage = 'en'
@@ -10,8 +10,8 @@ defaultContentLanguage = 'en'
     weight = 1
     [languages.en.params]
       datasource = 'content.en'
-  [languages.pt]
-    languageName = "Portuguese"
+  [languages.tr]
+    languageName = "Turkish"
     weight = 2
-    [languages.pt.params]
-      datasource = 'content.pt'
+    [languages.tr.params]
+      datasource = 'content.tr'
